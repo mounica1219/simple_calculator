@@ -93,7 +93,7 @@ class Calculator implements ActionListener
 		}
 	}
 	
-	public static void main(String...s)
+	public static void main(String args[])
 	{
 		new Calculator();
 	}
